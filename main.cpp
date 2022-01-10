@@ -23,6 +23,7 @@ int main(int argc, char** argv) {
 
     cout << "Bonjour" << endl;
     cout << "Aurevoir"<<endl;
+    cout << "Creation du git réalisé avec suscces"<<endl;
     return 0;
 }
 
